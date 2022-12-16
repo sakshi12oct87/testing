@@ -1,4 +1,7 @@
 first
+<<<<<<< HEAD
 second
 
 
+=======
+>>>>>>> parent of 2fcccbb (dummy second commit)
